@@ -4,4 +4,4 @@ This project is to test the Interactivebroker API connection using Java. A demo 
 
 # Screenshot
 
-![alt text](https://github.com/kelvonlys/IB-API-Connection-)
+![alt text](https://github.com/kelvonlys/IB-API-Connection-/blob/main/IB.png)
